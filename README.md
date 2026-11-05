@@ -65,7 +65,7 @@ Currently supported:
 
 ```bash
 git clone https://github.com/Z19Z19/Crypto-Respect.git
-cd cryptorespect
+cd Crypro-Respect
 ```
 
 ### 2. Install dependencies
