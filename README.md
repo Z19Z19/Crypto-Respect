@@ -64,7 +64,7 @@ Currently supported:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cryptorespect.git
+git clone https://github.com/Z19Z19/Crypto-Respect.git
 cd cryptorespect
 ```
 
@@ -149,27 +149,9 @@ Market information is retrieved through the `/coins/markets` endpoint and histor
 
 ---
 
-## Future Improvements
-
-- Real-time price updates
-- Additional cryptocurrencies
-- Portfolio tracking
-- Candlestick charts
-- Dark/Light theme selection
-- Error handling for API failures
-- Data export to CSV
-
----
-
 ## Author
 
 **Zaki Dufournet**
-
-Educational project developed to explore:
-- APIs
-- Data visualization
-- GUI development with Tkinter
-- Cryptocurrency market analysis
 
 ---
 
