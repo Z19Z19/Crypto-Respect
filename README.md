@@ -85,15 +85,6 @@ Images/
 ├── BNB.png
 ├── Shiba.png
 └── Trump.png
-```
-
-You may also add:
-
-```text
-cryptorespect.png
-```
-
-as the default image.
 
 ---
 
