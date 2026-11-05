@@ -1,6 +1,7 @@
 # CryptoRespect
 
-CryptoRespect is a Python desktop application that allows users to monitor cryptocurrency market data and visualize price trends through an interactive graphical interface.
+CryptoRespect is a French Python desktop application that allows users to monitor cryptocurrency market data and visualize price trends through an interactive graphical interface.
+
 
 Built with Tkinter, Matplotlib, and the CoinGecko API, the application lets users select a cryptocurrency, choose a currency, and display historical market data over multiple time periods.
 
